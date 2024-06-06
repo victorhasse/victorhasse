@@ -1,6 +1,43 @@
 <h1 align="left">Hey there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">, I'm Victor Hasse</h1>
 <p>I already graduated in Graphic Design at Universidade do Vale do Itajaí, UNIVALI (in 2018) <br> and now I'm studying Computer Science at Universidade do Sul de Santa Catarina, UNISUL (in 2024).</p>
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victorhasse&color=red" alt="Profile views" /> </p>
+<br>
+<!--
+<p>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=victorhasse&show_icons=true&theme=vision-friendly-dark" alt="victorhasse's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhasse&layout=compact&theme=vision-friendly-dark" alt="victorhasse's most languages"/>
+</p>
+<br>
+-->
+
+## Tools and Skills
+
+<p>🧑🏼‍💻 Computer Science:</p>
+<p>
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
+</p>
+<br>
+<p>✍🏻 Graphic Design:</p>
+<p>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
+</p>
+<br>
+
+## Contact
+
+<p>
+  <a href="https://linktr.ee/victorhasse" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="codepen"/>
+</a>
+</p>
+
 
 <!--
 **victorhasse/victorhasse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
