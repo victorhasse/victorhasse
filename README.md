@@ -1,14 +1,11 @@
-<h1 align="left">Hey there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px"> I'm Victor Hasse</h1>
-<p>Just a Brazilian student currently pursuing a degree in Computer Science, with a background in Graphic Design.</p>
-<br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:43204a,100:ea284b&height=210&section=header&text=Victor%20Hasse&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Dev%20Full%20Stack&descAlignY=50">
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=victorhasse&show_icons=true&count_private=true&hide_border=true&title_color=D0C5EF&icon_color=9796f0&text_color=fbc7d4&bg_color=0d1117"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhasse&layout=compact&hide_border=true&title_color=D0C5EF&text_color=fbc7d4&bg_color=0d1117"/>  
+</div>
 
 <!--
-<p>
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=victorhasse&show_icons=true&theme=vision-friendly-dark" alt="victorhasse's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhasse&layout=compact&theme=vision-friendly-dark" alt="victorhasse's most languages"/>
-</p>
-<br>
--->
 
 ## Tools and Skills
 
@@ -30,19 +27,24 @@
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
 </p>
 <br>
+-->
+<h2 align="center">More Info & Contact<h2>
 
-## More Info & Contact
-
-<p>
+<p align="center">
   <a href="https://linktr.ee/victorhasse" target="_blank">
-  <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="codepen"/></a>
+    <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="victor hasse's linktree"/>
+  </a>
+  
   <a href="mailto:victorhasse@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  <p><img src="https://komarev.com/ghpvc/?username=victorhasse&color=red" alt="Profile views" /></p>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="victor hasse's email"/>
+  </a>
+
+  <a href="https://victorhasse.github.io/victorhasse-website/">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="victor hasse's website"/>
+  </a>
+</p> 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=victorhasse&color=red" alt="Profile views" />
 </p>
 
-<!--
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=victorhasse&show_icons=true&locale=en&layout=compact"/>
-
--->
