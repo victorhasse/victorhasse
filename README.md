@@ -1,9 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:43204a,100:ea284b&height=210&section=header&text=Victor%20Hasse&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Computer%20Science%20Student&descAlignY=50">
-
+<!--
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=victorhasse&show_icons=true&count_private=true&hide_border=true&title_color=D0C5EF&icon_color=9796f0&text_color=fbc7d4&bg_color=0d1117"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhasse&layout=compact&hide_border=true&title_color=D0C5EF&text_color=fbc7d4&bg_color=0d1117"/>  
-</div>
+  -->
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=victorhasse&theme=transparent&hide_border=true&border_radius=30&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=475&card_height=15&ring=EB5454&fire=EB5454&sideNums=EBA699&currStreakNum=EB5454&currStreakLabel=EBA699&sideLabels=EBA699&dates=EBA699&stroke=EBA699" /></a>
+  
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhasse&layout=compact&hide_border=true&title_color=EBA699&text_color=EBA699&bg_color=0d1117" />
+</p>
 
 <h2 align="center">More Info & Contact<h2>
 
