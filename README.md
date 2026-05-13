@@ -4,7 +4,7 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=victorhasse&show_icons=true&count_private=true&hide_border=true&title_color=D0C5EF&icon_color=9796f0&text_color=fbc7d4&bg_color=0d1117"/>
   -->
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=victorhasse&theme=transparent&hide_border=true&border_radius=30&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=475&card_height=15&ring=EB5454&fire=EB5454&sideNums=EBA699&currStreakNum=EB5454&currStreakLabel=EBA699&sideLabels=EBA699&dates=EBA699&stroke=EBA699&exclude_days=Sun%2CSat" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=victorhasse&theme=transparent&hide_border=true&border_radius=30&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=week&card_width=475&card_height=15&ring=EB5454&fire=EB5454&sideNums=EBA699&currStreakNum=EB5454&currStreakLabel=EBA699&sideLabels=EBA699&dates=EBA699&stroke=EBA699&exclude_days=Sun%2CSat" /></a>
   
   <img height="155em" src="https://github-readme-stats-victorhasse.vercel.app/api/top-langs/?username=victorhasse&layout=compact&hide_border=true&title_color=EBA699&text_color=EBA699&bg_color=00000000" />
 </p>
